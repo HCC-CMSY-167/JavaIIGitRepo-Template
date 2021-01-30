@@ -8,7 +8,7 @@ You should see three directories in this repository.
 
 === Exercises
 
-Put each exercise in a separate subdirectory/ E.g. `Exercises/hellogithub/`, `Exercises/planetfacts`, etc.
+Put each exercise in a separate subdirectory. E.g. `Exercises/hellogithub/`, `Exercises/planetfacts`, etc.
 
 === Labs
 
