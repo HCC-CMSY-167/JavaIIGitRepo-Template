@@ -4,7 +4,7 @@ This repository is for tracking assignments in CMSY-167 at HCC.
 
 == Layout
 
-You should see three directories in this repository.
+You should see two directories in this repository.
 
 === Exercises
 
