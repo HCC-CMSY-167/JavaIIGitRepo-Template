@@ -10,13 +10,9 @@ You should see three directories in this repository.
 
 Put each exercise in a separate subdirectory. E.g. `Exercises/hellogithub/`, `Exercises/planetfacts`, etc.
 
-=== Labs
+=== Projects
 
-Put each lab assignment in a separate subdirectory. E.g. `Labs/contacts`, `Labs/inventory`, etc.
-
-=== SemesterProject
-
-Put your semester project here.
+Put each project assignment in a separate subdirectory. E.g. `Projects/contacts`, `Projects/inventory`, etc.
 
 == Git Quick Reference
 
