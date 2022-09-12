@@ -1,4 +1,4 @@
-= Java II Assignments: {Your Name Here}
+= Java II Assignments: *YourNameHere*
 
 This repository is for tracking assignments in CMSY-167 at HCC.
 
